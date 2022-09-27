@@ -1,20 +1,25 @@
 //1
-function countToFifty(){
+function morningLogged(){
   
 }
 
 //2
-function countFromOne(){
+function iLoveCode(){
   
 }
 
 //3
-function threeAndFiveInFifty(){
+function loggingTwice(){
   
 }
 
 //4
-function threeAndFive(){
+function noStep(){
+  
+}
+
+//5
+function isPrime(){
   
 }
 
