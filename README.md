@@ -1,7 +1,8 @@
-# Code Challenge: For Loops
+# Code Challenge: Console.log vs Return
 
 ## Instructions
 
+1. Create a folder in your AWS Cloud9 `/environment` directory called `code-challenges`. 
 2. Clone down this assignment to your `code-challenges' directory in AWS Cloud9.  
 3. Code your solution using JavaScript in `index.js`. 
 4. **Be sure to run and test your code throughly!**
@@ -10,19 +11,15 @@
 
 ## Code Problems
 
-1. Write a function named `countToFifty` that console.logs all the integers from 1 to 50. 
-
-2. Write a function named `countFromOne` that takes in an integer argument, and console.logs all the integers from 1 up to the given integer. 
-
-3. Write a function named `threeOrFiveInFifty` that console.logs all the integers from 1 to 50 that are divisible by 3 or 5.
-
-4. Write a function named `threeOrFive` that takes in an integer argument, and console.logs all the integers that are divisible by 3 or 5, from 1 up to the given integer. 
-
-#### Bonus
-
-5. Write a fuction `triple` that takes an array of integers and returns a new array of integers with triple the value.
+1. Write a function named `morningLogged` that console.logs the string "Good Morning". 
+2. Write a function named `iLoveCode` that returns the string "I love code challenges".
+3. Write a function named `loggingTwice` that console.logs the string "one" and on the next line, console.logs the string "two". 
+4. Write a function named `noStep` that console.logs the string "one" and returns the the string "two", then, after the return, console.logs the string "step".
+5. Write a function named `isPrime` that takes in an integer argument, and console.logs if the integer is a prime number.
+Examples:
 ```
-triple([1, 2, 3]) // returns [3,6,9]
-triple([5, 20, 27, 36,]) // returns [15, 60, 81, 108]
+isPrime(17) // logs true
+isPrime(5) // logs true
+isPrime(22) // logs false
+isPrime(1) // logs false
 ```
-
