@@ -11,16 +11,17 @@
 
 ## Code Problems
 
-1. Write a function named `morningLogged` that console.logs the string "Good Morning". 
+1. Write a function named `morningLogged` that console.logs the string "Good Morning". Write in commnets what is printed to the console when this function is invoked.
 
-2. Write a function named `iLoveCode` that returns the string "I love code challenges".
+2. Write a function named `iLoveCode` that returns the string "I love code challenges". Write in commnets what is printed to the console when this function is invoked.
 
-3. Write a function named `loggingTwice` that console.logs the string "one" and on the next line, console.logs the string "two". 
+3. Write a function named `loggingTwice` that console.logs the string "one" and on the next line, console.logs the string "two". Write in commnets what is printed to the console when this function is invoked.
 
-4. Write a function named `noStep` that console.logs the string "one" and returns the the string "two", then, after the return, console.logs the string "step".
+4. Write a function named `noStep` that console.logs the string "one" and returns the the string "two", then, after the return, console.logs the string "step". Write in commnets what is printed to the console when this function is invoked.
 
 ## Bonus
 5. Write a function named `isPrime` that takes in an integer argument, and console.logs if the integer is a prime number.
+
 Examples:
 ```
 isPrime(17) // logs true
