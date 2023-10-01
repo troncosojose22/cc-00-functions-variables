@@ -1,26 +1,30 @@
 //1
-function morningLogged(){
+const morningLogged = ()=>{
   
 }
+//What is printed to the console?
+
 
 //2
-function iLoveCode(){
+const iLoveCode = ()=>{
   
 }
+//What is printed to the console?
+
 
 //3
-function loggingTwice(){
+const loggingTwice = ()=>{
   
 }
+//What is printed to the console?
+
 
 //4
-function noStep(){
+const noStep = ()=>{
   
 }
+//What is printed to the console?
 
-//5
-function isPrime(){
-  
-}
+
 
 
