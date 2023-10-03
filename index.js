@@ -1,14 +1,11 @@
 //1
 const morningLogged = () => {
-  console.log("Good Morning");
 }
-morningLogged();
 //What is printed to the console?
 
 
 //2
 const iLoveCode = ()=>{
-  return 'I love code challenges'
 }
 
 //What is printed to the console?
