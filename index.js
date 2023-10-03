@@ -8,8 +8,9 @@ morningLogged();
 
 //2
 const iLoveCode = ()=>{
-  
+  return 'I love code challenges'
 }
+
 //What is printed to the console?
 
 
