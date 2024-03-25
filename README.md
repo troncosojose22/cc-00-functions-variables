@@ -2,16 +2,16 @@
 
 ## Instructions
 
-1. Create a folder in your `Development` directory called `code-challenges`. Inside of the `code-challenges`, create a directory called `unit-0`
+1. Create a folder in your `Development` directory called `code-challenges`. Inside the `code-challenges` directory, create another directory called `unit-0`
 2. Clone down this assignment to your `unit-0' directory.
-3. Code your solution using JavaScript in `index.js`.
-4. **Be sure to run and test your code throughly!**
+3. You can run and code JavaScript in `index.js`.
+4. **Be sure to run and test your code thoroughly to answer the questions correctly!**
 5. By the end of Code Challenge, **commit and push your changes up to Github**.
 6. Using the browser, verify that your solution is in your remote repo on Github.
 
 ### Instructions:
 
-Answer the following questions in this markdown file
+Answer the following questions in this markdown file. You can use the `index.js` file to run and test code. If you would like to format your answers using Markdown, reference this [Markdown guide](https://www.markdownguide.org/basic-syntax/). 
 
 ## Questions
 
