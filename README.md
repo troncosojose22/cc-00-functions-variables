@@ -14,14 +14,9 @@
 Answer the following questions in this markdown file. You can use the `index.js` file to run and test code. If you would like to format your answers using Markdown, reference this [Markdown guide](https://www.markdownguide.org/basic-syntax/). 
 
 ## Questions
-
-1. What is the difference between `console.log` and the `return` statement? In your response be sure to answer the following:
-    1. What is `console.log`?
-    2. How is the `return` related to functions in JavaScript?
+1. In this code snippet, what is the **argument** and what is the **parameter**?
     
-2. In this code snippet, what is the **argument** and what is the **parameter**?
-    
-    ```
+    ```jsx
     const sayHi = (name) => {
       return "Hi" + name
     };
@@ -30,8 +25,11 @@ Answer the following questions in this markdown file. You can use the `index.js`
     
     ```
     
-
-1. What is printed to the console, when the function `sayHi` is *invoked*?
+2. What is the difference between `console.log` and the `return` statement? In your response, be sure to answer the following:
+    1. What is the purpose of `console.log` What is the purpose of `return`?
+    2. How is the `return` related to functions in JavaScript?
+   
+3. What is printed to the console, when the function `sayHi` is *invoked*?
     
     ```
     const sayHi = (name) => {
@@ -43,7 +41,7 @@ Answer the following questions in this markdown file. You can use the `index.js`
     
     ```
     
-2. Run this code in a file, what does the variable `hello` *evaluate* to? Why does it evaluate to this?
+4. Run this code in a file, what does the variable `hello` *evaluate* to? Why does it evaluate to this?
     
     ```jsx
     const hiFunc = () => {
@@ -54,4 +52,4 @@ Answer the following questions in this markdown file. You can use the `index.js`
     
     ```
     
-3. What is the difference between `let` and `const`? What is the best practice when choosing which keyword to declare a variable with?
+5. What is the difference between `let` and `const`? What is the best practice when choosing which keyword to declare a variable with?
