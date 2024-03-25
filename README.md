@@ -26,7 +26,7 @@ Answer the following questions in this markdown file. You can use the `index.js`
     ```
     
 2. What is the difference between `console.log` and the `return` statement? In your response, be sure to answer the following:
-    1. What is the purpose of `console.log` What is the purpose of `return`?
+    1. What is the purpose of `console.log`?
     2. How is the `return` related to functions in JavaScript?
    
 3. What is printed to the console, when the function `sayHi` is *invoked*?
