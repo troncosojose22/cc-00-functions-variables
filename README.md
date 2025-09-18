@@ -1,55 +1,32 @@
-# Code Challenge: Functions and Console.log vs Return
+# Code Challenge: Functions and Variables
+---
+### **Instructions**
 
-## Instructions
-
-1. Create a folder in your `Development` directory called `code-challenges`. Inside the `code-challenges` directory, create another directory called `unit-0`
-2. Clone down this assignment to your `unit-0' directory.
-3. You can run and code JavaScript in `index.js`.
+1. Create a folder in your `Development` directory called `tip-challenges`
+2. Clone down this assignment to your `tip-challenges` directory.
+3. You can run and code JavaScript in `index.js`
 4. **Be sure to run and test your code thoroughly to answer the questions correctly!**
-5. By the end of Code Challenge, **commit and push your changes up to Github**.
-6. Using the browser, verify that your solution is in your remote repo on Github.
+5. By the end of Code Challenge, **commit and push your changes up to GitHub.**
+6. Using the browser, verify that your solution is in your remote repo on GitHub.
 
-### Instructions:
+---
 
-Answer the following questions in this markdown file. You can use the `index.js` file to run and test code. If you would like to format your answers using Markdown, reference this [Markdown guide](https://www.markdownguide.org/basic-syntax/). 
+### index.js
 
-## Questions
-1. In this code snippet, what is the **argument** and what is the **parameter**?
-    
-    ```jsx
-    const sayHi = (name) => {
-      return "Hi" + name
-    };
-    
-    sayHi("fellows");
-    
-    ```
-    
-2. What is the difference between `console.log` and the `return` statement? In your response, be sure to answer the following:
-    1. What is the purpose of `console.log`?
-    2. How is the `return` related to functions in JavaScript?
-   
-3. What is printed to the console, when the function `sayHi` is *invoked*?
-    
-    ```
-    const sayHi = (name) => {
-      console.log(name)
-      return "Hi" + name;
-    };
-    
-    sayHi("fellows");
-    
-    ```
-    
-4. Run this code in a file, what does the variable `hello` *evaluate* to? Why does it evaluate to this?
-    
-    ```jsx
-    const hiFunc = () => {
-      console.log("hi");
-    };
-    
-    const hello = hiFunc();
-    
-    ```
-    
-5. What is the difference between `let` and `const`? What is the best practice when choosing which keyword to declare a variable with?
+In the `index.js` file, an `addTax` function adds tax to a given price. Below this function, complete the `buyItem` function so that it does the following: 
+
+Create a function called `buyItem` that:
+
+- Takes in a number type argument `price`
+- Calculates the price with tax
+- Adds it to a running total
+- **Returns** a message showing the cost of the item and the total spent so far
+
+After you have completed writing for the `buyItem` function, *test* the function by using it with the following arguments
+
+**Hint**: You will need to print this to the console to see what the function returns. 
+
+```jsx
+buyItem(20)  // "You bought an item for $21.60. Total so far: $21.60"
+buyItem(10) // "You bought an item for $10.80. Total so far: $32.40"
+```
