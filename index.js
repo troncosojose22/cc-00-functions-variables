@@ -23,6 +23,9 @@ let totalSpent = 0;
 // A function that adds an item price (with tax) to our total amount spent
 const buyItem = (price) => {
 	//You should use the addTax function and totalSpent variable here
+  let taxedPrice = addTax(price);
+  totalSpent += taxedPrice;
+  console.log(`You bought an item for $${taxedPrice}. Total so far: $${totalSpent.toFixed(2)}`)
 };
 
 // 🧪 Test your function below with the following inputs 
