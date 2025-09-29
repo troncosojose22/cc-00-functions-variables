@@ -2,12 +2,15 @@
 ---
 ### **Instructions**
 
-1. Create a folder in your `Development` directory called `tip-challenges`
-2. Clone down this assignment to your `tip-challenges` directory.
-3. You can run and code JavaScript in `index.js`
-4. **Be sure to run and test your code thoroughly to answer the questions correctly!**
-5. By the end of Code Challenge, **commit and push your changes up to GitHub.**
-6. Using the browser, verify that your solution is in your remote repo on GitHub.
+1. `cd ~/Development`
+2. Create a folder in your `Development` directory called `tip-challenges`
+3. `cd tip-challenges`
+4. Clone down this assignment to your `tip-challenges` directory.
+5. `cd` into the assignment
+6. You can run and code JavaScript in the `index.js` file
+7. **Be sure to run and test your code thoroughly.**
+8. By the end of class, **commit and push your changes up to Github.**
+9. Using the browser, verify that your solution is in your remote repo on Github.
 
 ---
 
